@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1533592264 source:c:\users\familia\desktop\todocondiacionales\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1533768966 source:c:\users\familia\desktop\todo_condicionales\todocondiacionales\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
